@@ -13,7 +13,7 @@ Once guessed correctly, the game ends</p>
 </header>
 <main>
 <h3>🛠️ Technologies Used</h3>
-<p>Language: Python
+<p>Language: Python<br>
 Module: random</p>
 <h3>▶️ How to Run the Program</h3>
 <p>Ensure Python is installed on your system (Python 3 recommended).
@@ -26,6 +26,5 @@ python number_guessing_game.py</p>
 </main>
 <hr>
 <footer>
-  ---
 © 2025 • Built and maintained by Kul Bakshi
 </footer>
