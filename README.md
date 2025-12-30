@@ -23,8 +23,17 @@ Navigate to the project directory:
 cd Number_Guessing_Game_Code
 Run the Python file
 python number_guessing_game.py</p>
+  <h3>🚀 Learning Objectives</h3>
+  <p>Understand Python syntax
+Use the random module
+Handle user input
+Apply loops and conditional logic
+Build confidence with Git and GitHub</p>
 </main>
-<hr>
 <footer>
+  <h3>⭐️Acknowledgement</h3>
+  <p>This project is created for learning and practice purposes.
+Feel free to fork, modify, and improve it.</p>
+  <hr>
 © 2025 • Built and maintained by Kul Bakshi
 </footer>
